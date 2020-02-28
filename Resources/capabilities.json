@@ -1,0 +1,13 @@
+{
+  "platformName": "Android",
+  "deviceName": "emulator-5554",
+  "platformVersion": "9.0",
+  "app": "C:\\Users\\smsc\\Downloads\\app-release (3).apk",
+  "appPackage": "com.mobile.android.grptalk",
+  "appActivity ": "com.mobile.android.grptalk.activities.HowitWorksActivity",
+	"noSign": true,
+"appiumIp":"127.0.0.1",
+"nodeJsExePath":"C:\\Program Files\\nodejs\\node.exe",
+"appiumMainJsPath":"C:\\Users\\smsc\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"
+
+}
